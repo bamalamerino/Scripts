@@ -1,8 +1,8 @@
 # Scripts
 A bunch of bash scripts to improve photography workflow. 📸
 
-# KEY NOTE 
-chmod +x "filename"  
+## KEY NOTE 
+# chmod +x "filename.sh"  
 (gives permissions to run the bash script after download)
 
 Desciptions for each script will be added soon 
@@ -37,6 +37,6 @@ CSV Output:
 The CSV file has a header row, and for each image, a row with the extracted metadata is appended.
 
 ---
-*if theres any more scripts relating to photography let me know*
+*More scripts are in the pipeline, so hold tight*
 
 .bam
